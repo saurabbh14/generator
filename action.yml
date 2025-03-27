@@ -1,4 +1,4 @@
-name: "Generator"
+name: "Some Generator"
 author: "Saurabh"
 description: "Generate a feed for a podcast from YAML file"
 runs:
